@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **MERN Stacks, Data Structures & Algorithms.**
 
-- 👨‍💻 My Portfolio [Rohit.netlify.com](https://rohithirulkarpf.netlify.app)
+<!-- - 👨‍💻 My Portfolio [Rohit.netlify.com](https://rohithirulkarpf.netlify.app) -->
 
 - 💬 Ask me about **JavaScript, React, Express & MongoDB.**
 
 - 📫 How to reach me **nikhilhirulkar8@gmail.com**
 
-- ⚡ Fun fact - **I love watching world affairs and playing cricket.**
+- ⚡ Fun fact - **I love watching Current affairs and Doing yoga & meditation.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
