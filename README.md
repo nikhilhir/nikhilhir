@@ -18,8 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/HirulkarR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="HirulkarR" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nikhil-hirulkar-882a70127/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohithirulkar" height="30" width="40" /></a>
-<a href="nikhilhirulkar8@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="rohithirulkar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nikhil-hirulkar-882a70127/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilhirulkar" height="30" width="40" /></a>
+<a href="nikhilhirulkar8@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="nikhilhirulkar" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
