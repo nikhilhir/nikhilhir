@@ -1,5 +1,5 @@
 # README.md
-<h1 align="left">Hi 👋, I'm Rohit Hirulkar</h1>
+<h1 align="left">Hi 👋, I'm Nikhil Hirulkar</h1>
 <h3 align="left">I Am a full-stack web developer specializing in front end & back end web development, who enjoys solving complex problems and architecting reliable solutions. Looking to thrive in an environment that can utilize both my engineering and coding skills to create engaging consumer facing applications.</h3>
 
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript, React, Express & MongoDB.**
 
-- 📫 How to reach me **rohithirulkar848384@gmail.com**
+- 📫 How to reach me **nikhilhirulkar8@gmail.com**
 
 - ⚡ Fun fact - **I love watching world affairs and playing cricket.**
 
