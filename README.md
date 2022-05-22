@@ -40,9 +40,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />   -->
 </div>
-</td></tr></table> 
+<!-- </td></tr></table> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rohit8483&show_icons=true&locale=en" alt="Rohit8483" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajganjale&show_icons=true&locale=en&layout=compact" alt="nikhilhirulkar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajganjale&show_icons=true&locale=en&layout=compact" alt="nikhilhirulkar" /></p> -->
 
 
