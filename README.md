@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stacks, Data Structures & Algorithms.**
 
-<!-- - 👨‍💻 My Portfolio [Rohit.netlify.com](https://rohithirulkarpf.netlify.app) -->
+- 👨‍💻 My Portfolio [Rohit.netlify.com](https://myportfolionh.netlify.app/)
 
 - 💬 Ask me about **JavaScript, React, Express & MongoDB.**
 
