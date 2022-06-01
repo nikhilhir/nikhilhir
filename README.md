@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stacks, Data Structures & Algorithms.**
 
-- 👨‍💻 My Portfolio [(https://portfolio-self-psi-33.vercel.app/)]((https://myportfolio-web-dev.vercel.app/))
+- 👨‍💻 My Portfolio [(https://myportfolio-web-dev.vercel.app/)]((https://myportfolio-web-dev.vercel.app/))
 
 - 💬 Ask me about **JavaScript, React, Express & MongoDB.**
 
