@@ -53,4 +53,6 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?username=nikhilhir&show_icons=true&locale=en" alt="nikhilhir" /></p>
 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilhir&" alt="nikhilhir" /></p>
+
 
