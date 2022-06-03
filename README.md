@@ -1,5 +1,6 @@
 # README.md
 <h1 align="left">Hi 👋, I'm Nikhil Hirulkar</h1>
+<h1 align="center">Hi 👋, I'm nikhil hirulkar</h1>
 <h3 align="left">I Am a full-stack web developer specializing in front end & back end web development, who enjoys solving complex problems and architecting reliable solutions. Looking to thrive in an environment that can utilize both my engineering and coding skills to create engaging consumer facing applications.</h3>
 
 
