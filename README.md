@@ -1,6 +1,6 @@
 # README.md
 <h1 align="left">Hi 👋, I'm Nikhil Hirulkar</h1>
-<h1 align="center">Hi 👋, I'm nikhil hirulkar</h1>
+<!-- <h1 align="center">Hi 👋, I'm nikhil hirulkar</h1> -->
 <h3 align="left">I Am a full-stack web developer specializing in front end & back end web development, who enjoys solving complex problems and architecting reliable solutions. Looking to thrive in an environment that can utilize both my engineering and coding skills to create engaging consumer facing applications.</h3>
 
 
@@ -41,9 +41,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />   -->
 </div>
-<!-- </td></tr></table> 
+</td></tr></table> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rohit8483&show_icons=true&locale=en" alt="Rohit8483" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajganjale&show_icons=true&locale=en&layout=compact" alt="nikhilhirulkar" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajganjale&show_icons=true&locale=en&layout=compact" alt="nikhilhirulkar" /></p>
 
 
