@@ -3,7 +3,7 @@
 <!-- <h1 align="center">Hi 👋, I'm nikhil hirulkar</h1> -->
 <h3 align="left">I Am a full-stack web developer specializing in front end & back end web development, who enjoys solving complex problems and architecting reliable solutions. Looking to thrive in an environment that can utilize both my engineering and coding skills to create engaging consumer facing applications.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilhir" alt="nikhilhir" /></a> </p>
+
 
 
 - 🌱 I’m currently learning **MERN Stacks, Data Structures & Algorithms.**
@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact - **I love watching Current affairs and Doing yoga & meditation.**
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilhir" alt="nikhilhir" /></a> </p>
 
 
 
@@ -51,6 +51,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilhir&show_icons=true&locale=en&layout=compact" alt="nikhilhir" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilhir&" alt="nikhilhir" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilhir&" alt="nikhilhir" /></p>
 
 
