@@ -49,9 +49,8 @@
 </td></tr></table> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilhir&show_icons=true&locale=en" alt="nikhilhir" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilhir&show_icons=true&locale=en&layout=compact" alt="nikhilhir" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilhir&show_icons=true&locale=en&layout=compact" alt="nikhilhir" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?username=nikhilhir&show_icons=true&locale=en" alt="nikhilhir" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilhir&" alt="nikhilhir" /></p>
 
