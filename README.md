@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stacks, Data Structures & Algorithms.**
 
-- 👨‍💻 My Portfolio https://myportfolio-web-dev.vercel.app/
+- 👨‍💻 My Portfolio https://nikhilhirulkar.vercel.app/
 
 - 💬 Ask me about **JavaScript, React, Express & MongoDB.**
 
