@@ -53,8 +53,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilhir&show_icons=true&locale=en" alt="nikhilhir" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilhir&show_icons=true&locale=en&layout=compact" alt="nikhilhir" /></p>
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
 
 <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilhir&" alt="nikhilhir" /></p>
+
+![snake gif](https://github.com/nikhilhir/nikhilhir/blob/output/github-contribution-grid-snake.gif)
 
 
